@@ -45,9 +45,3 @@ This project is a simple implementation of a neural network to classify handwrit
 - ✅ Confusion Matrix showing where the model confuses digits
 
 ---
-
-## ▶️ How to Run
-
-### Install Dependencies
-```bash
-pip install tensorflow numpy matplotlib seaborn scikit-learn
